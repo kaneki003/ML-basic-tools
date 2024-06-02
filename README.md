@@ -1,2 +1,2 @@
 # Learning basic ML tools
-Starting with numpy and pandas
+Covering Numpy,Pandas along with data visualisations tools like Matplotlib,Seaborn and Plotly
